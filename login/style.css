@@ -1,0 +1,77 @@
+#bg{
+    background-image: url("images/form.jpeg");
+ }
+
+/* registration-form styling */
+
+.main_header{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.main_header span{
+    color: #ffffff;
+}
+#side_header{
+    color: #ffffff;
+    padding: 4%;
+    text-align: center;
+}
+.register{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+form{
+    padding: 6%;
+}
+label{
+    color: #ffffff;
+    font-weight: bold;
+    font-family: verdana;
+}
+.warning_text{
+    color: #ffffff;
+    font-style: italic;
+}
+.warning_text span{
+    color: yellowgreen;
+    text-transform: capitalize;
+}
+
+/* main interface styling */
+
+.topbar{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.top_header{
+    padding-top: 2%;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.user_header{
+    margin-top: 5%;
+    font-style: italic;
+}
+.info{
+    margin-top: 4%;
+}
+.message{
+    background-color: pink;
+}
+.message p{
+    padding: 8%;
+    font-style: italic;
+}
+.schedule{
+    width: 100%;
+    height: 300px;
+    background-color: lightgreen;
+}
+#hours{
+    padding: 3%;
+    text-align: center;
+    font-family: verdana;
+    text-transform: uppercase;
+}
