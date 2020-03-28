@@ -121,9 +121,7 @@ require_once('connection.php');
           </div>
         </div>
     </div>
-  
-  
-  
-  
+   
+<!--   designed by Sawera-A14 -->
   </body>
 </html>
